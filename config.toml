@@ -6,6 +6,7 @@ theme = "m10c"
 [params]
   avatar = "avatar.svg"
   author = "Eric Woo"
+  description = "sleep, dream, move"
 
 [[params.social]]
   icon = "gitlab"

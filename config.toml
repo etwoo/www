@@ -2,3 +2,8 @@ baseURL = "https://etw.ooo/"
 languageCode = "en-us"
 title = "Eric Woo"
 theme = "m10c"
+
+[[params.social]]
+  icon = "gitlab"
+  name = "My GitLab"
+  url = "https://gitlab.com/ewoo"

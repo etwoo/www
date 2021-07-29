@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Eric Woo"
 theme = "m10c"
 
+[params]
+  avatar = "avatar.svg"
+  author = "Eric Woo"
+
 [[params.social]]
   icon = "gitlab"
   name = "My GitLab"

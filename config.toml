@@ -10,5 +10,5 @@ theme = "m10c"
 
 [[params.social]]
   icon = "gitlab"
-  name = "My GitLab"
+  name = "gitlab"
   url = "https://gitlab.com/ewoo"

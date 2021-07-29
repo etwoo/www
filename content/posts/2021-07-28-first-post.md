@@ -1,6 +1,7 @@
 ---
-title: "My First Post"
-date: 2021-07-28T21:40:34-07:00
+title: "Hello, World!"
+date: 2021-07-28T23:45:00-07:00
 ---
 
-TODO: fill in content
+I will add some simple content in subsequent posts. For now, I am starting with
+the most basic content possible.

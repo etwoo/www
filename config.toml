@@ -1,0 +1,4 @@
+baseURL = "https://etw.ooo/"
+languageCode = "en-us"
+title = "Eric Woo"
+theme = "m10c"

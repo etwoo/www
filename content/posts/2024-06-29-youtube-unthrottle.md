@@ -25,7 +25,7 @@ youtube-unthrottle "$uri" > "$x"
 
 audio="$(head -1 $x)"
 video="$(tail -1 $x)"
-$mpv --title="$uri" --audio-file="$audio" "$video"
+mpv --title="$uri" --audio-file="$audio" "$video"
 ```
 
 ### Motivation

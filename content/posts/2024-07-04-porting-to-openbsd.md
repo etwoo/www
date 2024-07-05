@@ -1,5 +1,5 @@
 ---
-title: "Porting youtube-unthrottle to OpenBSD"
+title: "Sandboxing and Porting youtube-unthrottle to OpenBSD"
 date: 2024-07-04T21:45:00-07:00
 ---
 
